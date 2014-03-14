@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="in_x_days">
+		<item quantity="zero">em %d dias</item>
+		<item quantity="one">em %d dia</item>
+		<item quantity="two">em %d dias</item>
+		<item quantity="few">em %d dias</item>
+		<item quantity="many">em %d dias</item>
+		<item quantity="other">em %d dias</item>
+	</plurals>
+	<plurals name="in_x_hours">
+		<item quantity="zero">em %d horas</item>
+		<item quantity="one">em %d hora</item>
+		<item quantity="two">em %d horas</item>
+		<item quantity="few">em %d horas</item>
+		<item quantity="many">em %d horas</item>
+		<item quantity="other">em %d horas</item>
+	</plurals>
+	<plurals name="in_x_minutes">
+		<item quantity="zero">em %d minutos</item>
+		<item quantity="one">em %d minuto</item>
+		<item quantity="two">em %d minutos</item>
+		<item quantity="few">em %d minutos</item>
+		<item quantity="many">em %d minutos</item>
+		<item quantity="other">em %d minutos</item>
+	</plurals>
+	<plurals name="x_days_ago">
+		<item quantity="zero">%d dias atrás</item>
+		<item quantity="one">%d dia atrás</item>
+		<item quantity="two">%d dias atrás</item>
+		<item quantity="few">%d dias atrás</item>
+		<item quantity="many">%d dias atrás</item>
+		<item quantity="other">%d dias atrás</item>
+	</plurals>
+	<plurals name="x_hours_ago">
+		<item quantity="zero">%d horas atrás</item>
+		<item quantity="one">%d hora atrás</item>
+		<item quantity="two">%d horas atrás</item>
+		<item quantity="few">%d horas atrás</item>
+		<item quantity="many">%d horas atrás</item>
+		<item quantity="other">%d horas atrás</item>
+	</plurals>
+	<plurals name="x_minutes_ago">
+		<item quantity="zero">%d minutos atrás</item>
+		<item quantity="one">%d minuto atrás</item>
+		<item quantity="two">%d minutos atrás</item>
+		<item quantity="few">%d minutos atrás</item>
+		<item quantity="many">%d minutos atrás</item>
+		<item quantity="other">%d minutos atrás</item>
+	</plurals>
+</resources>

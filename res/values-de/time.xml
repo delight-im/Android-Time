@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="in_x_days">
+		<item quantity="zero">in %d Tagen</item>
+		<item quantity="one">in %d Tag</item>
+		<item quantity="two">in %d Tagen</item>
+		<item quantity="few">in %d Tagen</item>
+		<item quantity="many">in %d Tagen</item>
+		<item quantity="other">in %d Tagen</item>
+	</plurals>
+	<plurals name="in_x_hours">
+		<item quantity="zero">in %d Stunden</item>
+		<item quantity="one">in %d Stunde</item>
+		<item quantity="two">in %d Stunden</item>
+		<item quantity="few">in %d Stunden</item>
+		<item quantity="many">in %d Stunden</item>
+		<item quantity="other">in %d Stunden</item>
+	</plurals>
+	<plurals name="in_x_minutes">
+		<item quantity="zero">in %d Minuten</item>
+		<item quantity="one">in %d Minute</item>
+		<item quantity="two">in %d Minuten</item>
+		<item quantity="few">in %d Minuten</item>
+		<item quantity="many">in %d Minuten</item>
+		<item quantity="other">in %d Minuten</item>
+	</plurals>
+	<plurals name="x_days_ago">
+		<item quantity="zero">vor %d Tagen</item>
+		<item quantity="one">vor %d Tag</item>
+		<item quantity="two">vor %d Tagen</item>
+		<item quantity="few">vor %d Tagen</item>
+		<item quantity="many">vor %d Tagen</item>
+		<item quantity="other">vor %d Tagen</item>
+	</plurals>
+	<plurals name="x_hours_ago">
+		<item quantity="zero">vor %d Stunden</item>
+		<item quantity="one">vor %d Stunde</item>
+		<item quantity="two">vor %d Stunden</item>
+		<item quantity="few">vor %d Stunden</item>
+		<item quantity="many">vor %d Stunden</item>
+		<item quantity="other">vor %d Stunden</item>
+	</plurals>
+	<plurals name="x_minutes_ago">
+		<item quantity="zero">vor %d Minuten</item>
+		<item quantity="one">vor %d Minute</item>
+		<item quantity="two">vor %d Minuten</item>
+		<item quantity="few">vor %d Minuten</item>
+		<item quantity="many">vor %d Minuten</item>
+		<item quantity="other">vor %d Minuten</item>
+	</plurals>
+</resources>

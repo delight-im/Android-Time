@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="in_x_days">
+		<item quantity="zero">in %d giorni</item>
+		<item quantity="one">in %d giorno</item>
+		<item quantity="two">in %d giorni</item>
+		<item quantity="few">in %d giorni</item>
+		<item quantity="many">in %d giorni</item>
+		<item quantity="other">in %d giorni</item>
+	</plurals>
+	<plurals name="in_x_hours">
+		<item quantity="zero">in %d ore</item>
+		<item quantity="one">in %d ora</item>
+		<item quantity="two">in %d ore</item>
+		<item quantity="few">in %d ore</item>
+		<item quantity="many">in %d ore</item>
+		<item quantity="other">in %d ore</item>
+	</plurals>
+	<plurals name="in_x_minutes">
+		<item quantity="zero">in %d minuti</item>
+		<item quantity="one">in %d minuto</item>
+		<item quantity="two">in %d minuti</item>
+		<item quantity="few">in %d minuti</item>
+		<item quantity="many">in %d minuti</item>
+		<item quantity="other">in %d minuti</item>
+	</plurals>
+	<plurals name="x_days_ago">
+		<item quantity="zero">%d giorni fa</item>
+		<item quantity="one">%d giorno fa</item>
+		<item quantity="two">%d giorni fa</item>
+		<item quantity="few">%d giorni fa</item>
+		<item quantity="many">%d giorni fa</item>
+		<item quantity="other">%d giorni fa</item>
+	</plurals>
+	<plurals name="x_hours_ago">
+		<item quantity="zero">%d ore fa</item>
+		<item quantity="one">%d ora fa</item>
+		<item quantity="two">%d ore fa</item>
+		<item quantity="few">%d ore fa</item>
+		<item quantity="many">%d ore fa</item>
+		<item quantity="other">%d ore fa</item>
+	</plurals>
+	<plurals name="x_minutes_ago">
+		<item quantity="zero">%d minuti fa</item>
+		<item quantity="one">%d minuto fa</item>
+		<item quantity="two">%d minuti fa</item>
+		<item quantity="few">%d minuti fa</item>
+		<item quantity="many">%d minuti fa</item>
+		<item quantity="other">%d minuti fa</item>
+	</plurals>
+</resources>

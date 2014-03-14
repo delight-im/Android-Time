@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="in_x_days">
+		<item quantity="zero">en %d días</item>
+		<item quantity="one">en %d día</item>
+		<item quantity="two">en %d días</item>
+		<item quantity="few">en %d días</item>
+		<item quantity="many">en %d días</item>
+		<item quantity="other">en %d días</item>
+	</plurals>
+	<plurals name="in_x_hours">
+		<item quantity="zero">en %d horas</item>
+		<item quantity="one">en %d hora</item>
+		<item quantity="two">en %d horas</item>
+		<item quantity="few">en %d horas</item>
+		<item quantity="many">en %d horas</item>
+		<item quantity="other">en %d horas</item>
+	</plurals>
+	<plurals name="in_x_minutes">
+		<item quantity="zero">en %d minutos</item>
+		<item quantity="one">en %d minuto</item>
+		<item quantity="two">en %d minutos</item>
+		<item quantity="few">en %d minutos</item>
+		<item quantity="many">en %d minutos</item>
+		<item quantity="other">en %d minutos</item>
+	</plurals>
+	<plurals name="x_days_ago">
+		<item quantity="zero">hace %d días</item>
+		<item quantity="one">hace %d día</item>
+		<item quantity="two">hace %d días</item>
+		<item quantity="few">hace %d días</item>
+		<item quantity="many">hace %d días</item>
+		<item quantity="other">hace %d días</item>
+	</plurals>
+	<plurals name="x_hours_ago">
+		<item quantity="zero">hace %d horas</item>
+		<item quantity="one">hace %d hora</item>
+		<item quantity="two">hace %d horas</item>
+		<item quantity="few">hace %d horas</item>
+		<item quantity="many">hace %d horas</item>
+		<item quantity="other">hace %d horas</item>
+	</plurals>
+	<plurals name="x_minutes_ago">
+		<item quantity="zero">hace %d minutos</item>
+		<item quantity="one">hace %d minuto</item>
+		<item quantity="two">hace %d minutos</item>
+		<item quantity="few">hace %d minutos</item>
+		<item quantity="many">hace %d minutos</item>
+		<item quantity="other">hace %d minutos</item>
+	</plurals>
+</resources>

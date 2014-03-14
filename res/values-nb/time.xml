@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="in_x_days">
+		<item quantity="zero">I %d dager</item>
+		<item quantity="one">I %d dag</item>
+		<item quantity="two">I %d dager</item>
+		<item quantity="few">I %d dager</item>
+		<item quantity="many">I %d dager</item>
+		<item quantity="other">I %d dager</item>
+	</plurals>
+	<plurals name="in_x_hours">
+		<item quantity="zero">in %d hours</item>
+		<item quantity="one">in %d hour</item>
+		<item quantity="two">in %d hours</item>
+		<item quantity="few">in %d hours</item>
+		<item quantity="many">in %d hours</item>
+		<item quantity="other">in %d hours</item>
+	</plurals>
+	<plurals name="in_x_minutes">
+		<item quantity="zero">in %d minutes</item>
+		<item quantity="one">in %d minute</item>
+		<item quantity="two">in %d minutes</item>
+		<item quantity="few">in %d minutes</item>
+		<item quantity="many">in %d minutes</item>
+		<item quantity="other">in %d minutes</item>
+	</plurals>
+	<plurals name="x_days_ago">
+		<item quantity="zero">%d days ago</item>
+		<item quantity="one">%d day ago</item>
+		<item quantity="two">%d days ago</item>
+		<item quantity="few">%d days ago</item>
+		<item quantity="many">%d days ago</item>
+		<item quantity="other">%d days ago</item>
+	</plurals>
+	<plurals name="x_hours_ago">
+		<item quantity="zero">%d timer siden</item>
+		<item quantity="one">%d time siden</item>
+		<item quantity="two">%d hours ago</item>
+		<item quantity="few">%d hours ago</item>
+		<item quantity="many">%d hours ago</item>
+		<item quantity="other">%d hours ago</item>
+	</plurals>
+	<plurals name="x_minutes_ago">
+		<item quantity="zero">%d minutes ago</item>
+		<item quantity="one">%d minute ago</item>
+		<item quantity="two">%d minutes ago</item>
+		<item quantity="few">%d minutes ago</item>
+		<item quantity="many">%d minutes ago</item>
+		<item quantity="other">%d minutes ago</item>
+	</plurals>
+</resources>

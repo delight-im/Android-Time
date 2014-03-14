@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="in_x_days">
+		<item quantity="zero">en %d jours</item>
+		<item quantity="one">en %d jour</item>
+		<item quantity="two">en %d jours</item>
+		<item quantity="few">en %d jours</item>
+		<item quantity="many">en %d jours</item>
+		<item quantity="other">en %d jours</item>
+	</plurals>
+	<plurals name="in_x_hours">
+		<item quantity="zero">en %d heures</item>
+		<item quantity="one">en %d heure</item>
+		<item quantity="two">en %d heures</item>
+		<item quantity="few">en %d heures</item>
+		<item quantity="many">en %d heures</item>
+		<item quantity="other">en %d heures</item>
+	</plurals>
+	<plurals name="in_x_minutes">
+		<item quantity="zero">en %d minutes</item>
+		<item quantity="one">en %d minute</item>
+		<item quantity="two">en %d minutes</item>
+		<item quantity="few">en %d minutes</item>
+		<item quantity="many">en %d minutes</item>
+		<item quantity="other">en %d minutes</item>
+	</plurals>
+	<plurals name="x_days_ago">
+		<item quantity="zero">il y a %d jours</item>
+		<item quantity="one">il y a %d jour</item>
+		<item quantity="two">il y a %d jours</item>
+		<item quantity="few">il y a %d jours</item>
+		<item quantity="many">il y a %d jours</item>
+		<item quantity="other">il y a %d jours</item>
+	</plurals>
+	<plurals name="x_hours_ago">
+		<item quantity="zero">il y a %d heures</item>
+		<item quantity="one">il y a %d heure</item>
+		<item quantity="two">il y a %d heures</item>
+		<item quantity="few">il y a %d heures</item>
+		<item quantity="many">il y a %d heures</item>
+		<item quantity="other">il y a %d heures</item>
+	</plurals>
+	<plurals name="x_minutes_ago">
+		<item quantity="zero">il y a %d minutes</item>
+		<item quantity="one">il y a %d minute</item>
+		<item quantity="two">il y a %d minutes</item>
+		<item quantity="few">il y a %d minutes</item>
+		<item quantity="many">il y a %d minutes</item>
+		<item quantity="other">il y a %d minutes</item>
+	</plurals>
+</resources>
