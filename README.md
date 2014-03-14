@@ -13,10 +13,17 @@ Library for displaying locale-specific time in Android
 ```
 String formattedTime;
 
-formattedTime = RelativeTime.fromTimestamp(getResources(), 1394804793000L); // formattedTime could now be <45 minutes ago>
-formattedTime = RelativeTime.fromMilliseconds(getResources(), -435000); // formattedTime is now <7 minutes ago>
-formattedTime = RelativeTime.fromSeconds(getResources(), 15300); // formattedTime is now <in 4 hours>
-formattedTime = RelativeTime.fromMinutes(getResources(), -3240); // formattedTime is now <2 days ago>
+formattedTime = RelativeTime.fromTimestamp(getResources(), 1394804793000L);
+// formattedTime could now be <45 minutes ago>
+
+formattedTime = RelativeTime.fromMilliseconds(getResources(), -435000);
+// formattedTime is now <7 minutes ago>
+
+formattedTime = RelativeTime.fromSeconds(getResources(), 15300);
+// formattedTime is now <in 4 hours>
+
+formattedTime = RelativeTime.fromMinutes(getResources(), -3240);
+// formattedTime is now <2 days ago>
 ```
 
 ## Contribute
