@@ -30,7 +30,7 @@ formattedTime = RelativeTime.fromMinutes(getResources(), -3240);
 
 If you want to translate existing phrases or add new ones, please do so on our platform for managed translations:
 
-[Android-Time on Localize](http://www.localize.io/v/3p)
+[Android-Time on Localize](http://www.localize.im/v/3p)
 
 ## License
 
